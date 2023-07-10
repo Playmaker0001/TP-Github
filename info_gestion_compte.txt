@@ -1,0 +1,1 @@
+Pour les fonctionnalités liées à la gestion du compte utilisateur (changement de mot de passe, mises à jour du profil, etc.).
