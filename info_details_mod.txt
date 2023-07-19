@@ -1,0 +1,1 @@
+Pour la page qui affiche les détails d'un mod spécifique.
